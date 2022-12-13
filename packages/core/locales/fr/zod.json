@@ -30,8 +30,8 @@
           "not_inclusive": "Liste doit contenir plus de {{minimum}} élément(s)"
         },
         "string": {
-          "inclusive": "Champ de text doit contenir au moins {{minimum}} caractère(s)",
-          "not_inclusive": "Champ de text doit centenir plus de {{minimum}} caractère(s)"
+          "inclusive": "Champ texte doit contenir au moins {{minimum}} caractère(s)",
+          "not_inclusive": "Champ texte doit centenir plus de {{minimum}} caractère(s)"
         },
         "number": {
           "inclusive": "Nombre doit être supérieur ou égale à {{minimum}}",
@@ -52,8 +52,8 @@
           "not_inclusive": "Liste doit contenir moins de {{maximum}} élément(s)"
         },
         "string": {
-          "inclusive": "Champ de text doit contenir au plus {{maximum}} caractère(s)",
-          "not_inclusive": "Champ de text doit contenir moins de {{maximum}} caractère(s)"
+          "inclusive": "Champ texte doit contenir au plus {{maximum}} caractère(s)",
+          "not_inclusive": "Champ texte doit contenir moins de {{maximum}} caractère(s)"
         },
         "number": {
           "inclusive": "Nombre doit être inférieur ou égale à {{maximum}}",
@@ -75,7 +75,7 @@
       "uuid": "UUID",
       "cuid": "CUID",
       "regex": "expression régulière",
-      "datetime": "horodate"
+      "datetime": "date-heure"
     },
     "types": {
       "function": "fonction",
